@@ -69,6 +69,7 @@ input[type='radio'] {
 
 input {
   vertical-align: top;
+  accent-color: var(--accent-color);
 }
 
 label {
